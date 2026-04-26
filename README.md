@@ -30,5 +30,5 @@ A backend-driven financial analytics platform built with Python and FastAPI that
 pip install -r requirements.txt
 python -m uvicorn backend.main:app --reload
 
-
+video demo: 
 https://youtu.be/neeOaTlEjLY
